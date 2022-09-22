@@ -15,7 +15,7 @@ youtubeId:
 </center>
 <br>
 <center>
-<a href="https://github.com/pettza/3DNS"><img style="height:80px;" src="imgs/GitHub-Mark-120px-plus.png" /></a>
+<a href="https://github.com/pettza/3DNS"><img style="height:80px;" src="imgs/GitHub-Mark-120px-plus.png"/></a>
 <br>
 <a href="https://github.com/pettza/3DNS">Code</a>
 </center>
