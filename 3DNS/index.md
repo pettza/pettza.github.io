@@ -1,5 +1,5 @@
 ---
-youtubeId:
+youtubeId: dP4HLfNjTjk
 ---
 
 <img src="imgs/teaser.png" alt="teaser" width="1000"/>
@@ -15,8 +15,9 @@ youtubeId:
 </center>
 <br>
 <center>
-<a href="https://github.com/pettza/3DNS"><img style="height:80px;" src="imgs/GitHub-Mark-120px-plus.png"/></a>
+<a href="https://arxiv.org/abs/2209.13971"><img style="height:80px;" src="imgs/arxiv.png" /></a>&emsp;&emsp;&emsp;&emsp;<a href="https://arxiv.org/pdf/2209.13971.pdf"><img style="height:80px;" src="imgs/paper.png" /></a>&emsp;&emsp;&emsp;&emsp;<a href="https://github.com/pettza/3DNS"><img style="height:80px;" src="imgs/GitHub-Mark-120px-plus.png"/></a>
 <br>
+<a href="https://arxiv.org/abs/2209.13971">arXiv</a>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;<a href="https://arxiv.org/pdf/2209.13971.pdf">Paper</a>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;
 <a href="https://github.com/pettza/3DNS">Code</a>
 </center>
 
@@ -26,3 +27,9 @@ youtubeId:
 In recent years, implicit surface representations through neural networks that encode the signed distance have gained popularity and have achieved state-of-the-art results in various tasks (e.g. shape representation, shape reconstruction, and learning shape priors). However, in contrast to conventional shape representations such as polygon meshes, the implicit representations cannot be easily edited and existing works that attempt to address this problem are extremely limited. In this work, we propose the first method for efficient interactive editing of signed distance functions expressed through neural networks, allowing free-form editing. Inspired by 3D sculpting software for meshes, we use a brush-based framework that is intuitive and can in the future be used by sculptors and digital artists. In order to localize the desired surface deformations, we regulate the network by using a copy of it to sample the previously expressed surface. We introduce a novel framework for simulating sculpting-style surface edits, in conjunction with interactive surface sampling and efficient adaptation of network weights. We qualitatively and quantitatively evaluate our method in various different 3D objects and under many different edits. The reported results clearly show that our method yields high accuracy, in terms of achieving the desired edits, while at the same time preserving the geometry outside the interaction areas.
 </p>
 </blockquote>
+
+</br>
+**<center>Demo Video</center>**
+<center>
+{% include youtubePlayer.html id=page.youtubeId %}
+</center>
